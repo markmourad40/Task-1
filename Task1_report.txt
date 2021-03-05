@@ -1,0 +1,2 @@
+Report: What is a pull request
+Whether you’re collaborating on a work assignment with colleagues or contributing to an open-source project, chances are that you will be operating in the following scenario. You make local code changes and then submit those changes to a remote project maintainer for review before those changes are implemented, or merged.
